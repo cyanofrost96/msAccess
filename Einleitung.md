@@ -12,3 +12,5 @@ angezeigte Queries mit Rechnungsfunktion kombinieren (summiert nach der gleichen
 Formulare ist die "Bedienungsoberfläche" von Access, dies ermöglicht die Eingabe, Suche, Ändern, usw. einer Tabelle / Query, ohne dem Hektik einer laaangen Tabelle zu erfahren. 
 
 Wie kann man Formular erstellen / bearbeiten??
+
+Unterschied mit Excel: Mehrere Datensätze, und Verbindungen zwischen Tabellen/Spalten
