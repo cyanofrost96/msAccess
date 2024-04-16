@@ -14,3 +14,5 @@ Formulare ist die "Bedienungsoberfläche" von Access, dies ermöglicht die Einga
 Wie kann man Formular erstellen / bearbeiten??
 
 Unterschied mit Excel: Mehrere Datensätze, und Verbindungen zwischen Tabellen/Spalten
+Spalte : Felder (Fields)
+Reihe : Datensatz (Records)
